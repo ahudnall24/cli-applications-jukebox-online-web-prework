@@ -57,5 +57,11 @@ end
 
 
 def play
-  puts 
+  puts "Please enter a song name or number:"
+  user_response = gets.strip
+end
+
+def exit_jukebox
+  puts "Goodbye"
+end
 # Add your code here
