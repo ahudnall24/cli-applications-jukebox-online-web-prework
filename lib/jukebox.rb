@@ -69,6 +69,9 @@ def run
 puts "Please enter a command:"
 user_response=gets.chomp
 user_response=gets.exit
+end
+
+
 
 
 # Add your code here
