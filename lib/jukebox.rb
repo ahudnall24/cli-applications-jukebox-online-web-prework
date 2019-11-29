@@ -66,4 +66,9 @@ def exit_jukebox
 end
 
 def run
-puts # Add your code here
+puts "Please enter a command:"
+user_response=gets.chomp
+user_response=gets.exit
+
+
+# Add your code here
