@@ -1,11 +1,20 @@
-def say_hello(name)
-  "Hi #{name}!"
+def say_help
+ puts "Help!"
 end
+
+def lists
  
-puts "Enter your name:"
-users_name = gets.strip
+puts "Track"
+track_name=gets.track
+end
+
+def play
+  puts"Song Name"
+  song_name= gets.song
  
-puts say_hello(users_name)
+def exit
+  puts"Goodbye"
+end
 
 
 # Add your code here
