@@ -53,5 +53,9 @@ puts Phoenix - Consolation Prizes
 puts Harry Chapin - Cats in the Cradle
 puts Amos Lee - Keep It Loose, Keep It Tight
 
+end 
 
+
+def play
+  puts 
 # Add your code here
