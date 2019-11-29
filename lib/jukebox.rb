@@ -64,4 +64,6 @@ end
 def exit_jukebox
   puts "Goodbye"
 end
-# Add your code here
+
+def run
+puts # Add your code here
